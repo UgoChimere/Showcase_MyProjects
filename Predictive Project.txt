@@ -1,0 +1,5 @@
+https://gallery.cortanaintelligence.com/Experiment/drug-group-prediction-project-Predictive-Exp
+
+I am predicting the drug group for patients based on Age, Gender, BP, and BMI.
+
+Kindly use the above link to view the model on the Machine Learning Studio(classic) gallery
